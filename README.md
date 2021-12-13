@@ -12,8 +12,4 @@ Automatization tool for creation a new README.md for my projects.
 wget -O README.md https://raw.githubusercontent.com/vlaim/readme-template/master/TEMPLATE
 ```
 
-
-## License
-
-
 [ico-license]: https://img.shields.io/badge/license-unlicensed-brightgreen.svg?style=flat-square
